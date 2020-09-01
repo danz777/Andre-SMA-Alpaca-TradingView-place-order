@@ -5,8 +5,8 @@ from chalice import Chalice
 
 app = Chalice(app_name='dre-trade')
 
-key = "AK068O0MJUPYLIAJAFR5"
-sec = "uNv2FPEhV73bl1v7p0I7fqJ9rdhSg1OZcuoYjrTx"
+key = "api-key"
+sec = "secret"
 
 #API endpoint URL
 url = "https://api.alpaca.markets"

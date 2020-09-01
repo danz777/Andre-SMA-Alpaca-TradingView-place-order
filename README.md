@@ -1,0 +1,1 @@
+# Andre-SMA-Alpaca-TradingView-place-order
